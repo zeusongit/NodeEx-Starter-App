@@ -1,2 +1,2 @@
-# Playground
-My personal reps for work and practice.
+# Node-Express Starter Application
+Barebone App for faster start
